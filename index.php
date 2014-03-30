@@ -86,7 +86,10 @@ a.button:hover {
 
 <h1>Teknisk</h1>
 <ul class="icons" onmousedown="return false;">
-	<li><a href="//phpldapadmin.smint.no/phpldapadmin" title="phpLdapAdmin"><img src="//static.iapc.utwente.nl/theme/unboxing/icon/phpldapadmin" alt="phpLdapAdmin" /></a></li>
+	<li><a href="//ipa.smint.no/"
+    	title="freeIPA"><img
+src="//static.iapc.utwente.nl/theme/unboxing/icon/phpldapadmin"
+alt="freeIPA" /></a></li>
 	<li><a href="//phpmyadmin.smint.no/" title="phpMyAdmin"><img src="//static.iapc.utwente.nl/theme/unboxing/icon/phpmyadmin" alt="phpMyAdmin" /></a></li>
 	<li><a href="//idp.smint.no/simplesaml/saml2/idp/metadata.php?output=xhtml" title="SAML metadata"><img src="//static.iapc.utwente.nl/theme/unboxing/icon/idp" alt="SAML metadata" /></a></li>
 </ul>
