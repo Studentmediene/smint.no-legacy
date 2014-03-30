@@ -74,8 +74,10 @@ a.button:hover {
 
 <h1>Felles</h1>
 <ul class="icons" onmousedown="return false;">
+<!--
 	<li><a href="//booking.smint.no/" title="Booking"><img src="static/icon/booking" alt="Booking" /></a></li>
 	<li><a href="//feil.smint.no/" title="Feil"><img src="static/icon/feil" alt="Feil" /></a></li>
+-->
 	<li><a href="//wiki.smint.no/" title="Wiki"><img src="//static.iapc.utwente.nl/theme/unboxing/icon/wiki" alt="Wiki" /></a></li>
 </ul>
 
