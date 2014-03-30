@@ -77,6 +77,9 @@ a.button:hover {
 <!--
 	<li><a href="//booking.smint.no/" title="Booking"><img src="static/icon/booking" alt="Booking" /></a></li>
 	<li><a href="//feil.smint.no/" title="Feil"><img src="static/icon/feil" alt="Feil" /></a></li>
+	<li><a href="//barweb.smint.no/" title="BarWeb"><img src="static/icon/feil" alt="Feil" /></a></li>
+	<li><a href="//intern.smint.no/" title="Internsidene"><img src="static/icon/feil" alt="Feil" /></a></li>
+	<li><a href="//anthropoi.smint.no/" title="Medarbeidere"><img src="static/icon/feil" alt="Feil" /></a></li>
 -->
 	<li><a href="//wiki.smint.no/" title="Wiki"><img src="//static.iapc.utwente.nl/theme/unboxing/icon/wiki" alt="Wiki" /></a></li>
 </ul>
@@ -84,6 +87,9 @@ a.button:hover {
 <h1>Redaksjonelt</h1>
 <ul class="icons" onmousedown="return false;">
 	<li><a href="//dusken.no/admin" title="Chimera"><img src="static/icon/dusken.svg" alt="Chimera" /></a></li>
+<!--
+	<li><a href="//momus.smint.no" title="Momus"><img src="static/icon/dusken.svg" alt="Chimera" /></a></li>
+-->
 </ul>
 
 <h1>Teknisk</h1>
